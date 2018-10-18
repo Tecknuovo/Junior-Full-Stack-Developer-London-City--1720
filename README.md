@@ -1,5 +1,5 @@
 # Junior-Full-Stack-Developer-InsureTech-London-City-1720
-# Junior Full Stack .Net Developer – London (City) – £60,000 to £75,000 
+# £35 000 - £45 000
 
 # Stack: 
 C#, .Net, JavaScript, React, SaaS 
